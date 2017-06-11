@@ -1,0 +1,17 @@
+~*
+*~
+*.o
+*.ko
+*.pyc
+*.log
+*.bak
+desktop.ini
+.DS_Store
+.stfolder
+.stversions/
+.idea/
+**/Rubbish/
+**/.debris/
+.ssh/
+**/*.bak
+**/*_bak
