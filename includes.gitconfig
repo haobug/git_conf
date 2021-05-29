@@ -1,0 +1,5 @@
+[include]
+        path=alias.ini
+        path=color.ini
+        path=crlf.ini
+        path=whitespace.ini
